@@ -1,6 +1,6 @@
 /*!
 Regex Colorizer
-(c) 2007-2025 Steven Levithan
+(c) 2007-2026 Steven Levithan
 MIT License
 */
 
